@@ -8,6 +8,7 @@
 - [Windsurfing Weather API](https://github.com/mmackowiak98/windsurfing-weather-app)
 - [ORM Manager](https://github.com/tomeee121/ORM)
 - [CarDiary](https://github.com/Wr-40Java/back-end-app)
+- [EmailSender](https://github.com/mmackowiak98/email-sender-microservice)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mmackowiak98&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
