@@ -1,8 +1,7 @@
 - 👋 Hi, I’m `@mmackowiak98` - Maciej Maćkowiak
-- 👀 I’m interested in programming mainly, learning new stuff, F1 and some good music
-- 🌱 I’m currently learning Java and its Frameworks
-- 💞️ I’m looking to collaborate on any task
-- 📫 How to reach me - by my email - mmackowiak08@gmail.com
+- 👀 I’m interested in programming, learning new stuff, F1 and some good music
+- 🌱 I’m working with Java and its frameworks
+- 📫 Reach me by my email - mmackowiak08@gmail.com
 
  ### Projects:
 - [Windsurfing Weather API](https://github.com/mmackowiak98/windsurfing-weather-app)
