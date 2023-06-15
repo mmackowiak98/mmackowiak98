@@ -9,10 +9,9 @@
 - [CarDiary](https://github.com/Wr-40Java/back-end-app)
 - [EmailSender](https://github.com/mmackowiak98/email-sender-microservice)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mmackowiak98&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
 ---------------------------------------------------------------------------------------
-- Finishing <b>2022</b> with satisfying stats
+- Finishing <b>2022</b>
 ![git2023](https://user-images.githubusercontent.com/46621470/210412245-c2dd90e1-97ae-44ac-9d8f-d9752e405bf5.PNG) -->
 
 
